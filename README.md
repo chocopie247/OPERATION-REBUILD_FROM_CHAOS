@@ -11,7 +11,7 @@ Your mission is to **perfectly reassemble the network's topology** and restore t
 
 > [!IMPORTANT]  
 > **OPERATIONAL BRIEFING**  
-> The official guidelines, evaluation parameters, and scoring grids are documented in the [Official Rules Manual](file:///Users/chocopie/OPERATION-REBUILD_FROM_CHAOS/RULES.md). Please review them before deploying solutions.
+> The official guidelines, evaluation parameters, and scoring grids are documented in the [Official Rules Manual](RULES.md). Please review them before deploying solutions.
 
 ---
 
