@@ -1,5 +1,5 @@
-# 🧬 NSOC COMMAND: THE MODEL RECONSTRUCTION CHALLENGE
-### 🌌 Operation: Rebuild from Chaos
+# NSOC COMMAND: THE MODEL RECONSTRUCTION CHALLENGE
+### Operation: Rebuild from Chaos
 
 Welcome, Operative, to the **NSOC Model Reconstruction Grid**! 
 
@@ -15,7 +15,7 @@ Your mission is to **perfectly reassemble the network's topology** and restore t
 
 ---
 
-## 🧩 THE SCRAMBLED COMPONENTS & MATRIX SHAPES
+## THE SCRAMBLED COMPONENTS & MATRIX SHAPES
 
 All $N$ weight fragments are isolated inside `data/pieces/`. To begin reassembly, you must classify each piece based on its **weight tensor dimensions**:
 
@@ -24,7 +24,7 @@ All $N$ weight fragments are isolated inside `data/pieces/`. To begin reassembly
 3.  **Block Input Projections ($W_{\text{in}}$):** Maps latent space dimensions to sub-block projection features ($D_{\text{sub}}$).
 4.  **Block Output Projections ($W_{\text{out}}$):** Projects sub-block features back down to the latent space dimension ($D_{\text{latent}}$).
 
-### 📐 The Deep Architecture
+### The Deep Architecture
 The original network consists of:
 *   A front projection layer (`proj`).
 *   **$K$ sequential residual blocks**. Each block $k$ maps intermediate latent features $x$ as:
@@ -40,7 +40,7 @@ You must perform mathematical and structural analysis on the raw weight matrices
 
 ---
 
-## 📦 COMPILER REPOSITORY TOPOLOGY
+## COMPILER REPOSITORY TOPOLOGY
 
 This workspace is structured as a self-contained local development environment:
 
@@ -60,7 +60,7 @@ model-reconstruction-chaos/
 
 ---
 
-## 🚀 GETTING STARTED (DEPLOYMENT GUIDE)
+## GETTING STARTED (DEPLOYMENT GUIDE)
 
 ### 1. Synchronize the Repository
 Operatives should establish their local working environment branch:
